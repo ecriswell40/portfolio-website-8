@@ -1,6 +1,6 @@
 # Portfolio Website
 > The goal was to use what we have learned to create a landing page for us on the internet. We also linked our landing page to our custom domain as well as used Google analytics to show how many users have visited our site.
-> Live demo [_here_](https://ecriz.me/). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [_here_](https://ecriz.me). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
