@@ -8,7 +8,7 @@
 * [Setup](#setup)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [What I've Learned](#what-I've-learned)
+* [What I've Learned](#what-i've-learned)
 
 ## General Information
 - Be able to create our own landing page based on what we have learned.
